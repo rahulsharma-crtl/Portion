@@ -1,0 +1,7 @@
+{
+  "name": "Portion",
+  "description": "A precision recipe generator that scales ingredients strictly to metric weights and organizes shopping lists by category using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
